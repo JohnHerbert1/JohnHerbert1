@@ -1,6 +1,3 @@
-Hello, i'm John Herbert, this is my profile!!
-
-🌱 I’m currently learning: Java and JavaScript
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
@@ -24,7 +21,7 @@ Hello, i'm John Herbert, this is my profile!!
 
 <div align="center"> 
 <a href="https://www.instagram.com/johnherbert.12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:ysonh68@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:johnherbertfre98@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/halyson-lourran-da-silva-antonino-1a0071273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
